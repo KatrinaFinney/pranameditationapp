@@ -95,7 +95,7 @@ audio {
     top: -40px;
     left: 140px;
     width: 20px;
-    height: 190px;
+    height: 185px;
     animation: rotate 7.5s linear forwards infinite;
     transform-origin: bottom center;
 }
