@@ -57,7 +57,6 @@ audio {
 }
 .top-container audio{
     margin: 0 auto;
-    margin-bottom: .2em;
 }
 .gradient-circle{
    background: conic-gradient(
