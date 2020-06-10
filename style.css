@@ -24,6 +24,7 @@ h1{
     font-size: 3.5em;
     margin: 0 auto;
     opacity: .9;
+    z-index:1000;
     
 }
 h2 {
