@@ -67,8 +67,8 @@ audio {
        #294c50 62%,
        #08668b 1%
    ); 
-   height: 320px;
-   width: 320px;
+   height: 32em;
+   width: 32em;
    top: -10px;
    left: -10px;
    z-index: -2;
