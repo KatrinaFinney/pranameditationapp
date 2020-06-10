@@ -19,7 +19,7 @@ body {
 }
 
 h1{
-    font-size: 6em;
+    font-size: 4em;
     margin: 0 auto;
     
 }
@@ -28,7 +28,7 @@ h2 {
     margin: 0 auto;
     text-align: center;
     color: #01202e;
-    margin-bottom: 2em;
+    margin-bottom: .3em;
     font-style: inherit;
     
 }
@@ -49,15 +49,26 @@ audio {
     transform: scale(1);
    
 }
-
+.top-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+}
+.top-container audio{
+    margin: 0 auto;
+    margin-bottom: 1.2em;
+}
 .gradient-circle{
    background: conic-gradient(
        #5ed0df 0%,
-       #4ca493 40%,
+       #4ca493 38%,
        #fff 40%,
        #fff 60%,
-       #294c50 60%,
-       #08668b 100%
+       #294c50 62%,
+       #08668b 1%
    ); 
    height: 320px;
    width: 320px;
