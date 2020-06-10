@@ -33,7 +33,6 @@ h2 {
 }
 audio {
     width: 8em;
-    border-radius: 50%;
     margin-left: 24em;
     opacity: .8;
 }
@@ -58,7 +57,7 @@ audio {
 }
 .top-container audio{
     margin: 0 auto;
-    margin-bottom: .8em;
+    margin-bottom: .2em;
 }
 .gradient-circle{
    background: conic-gradient(
