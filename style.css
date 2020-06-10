@@ -28,12 +28,12 @@ h2 {
     margin: 0 auto;
     text-align: center;
     color: #01202e;
-    margin-bottom: .3em;
     font-style: inherit;
     
 }
 audio {
     width: 8em;
+    border-radius: 50%;
     margin-left: 24em;
     opacity: .8;
 }
